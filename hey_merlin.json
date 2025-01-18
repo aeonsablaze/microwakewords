@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Merlin",
   "author": "Ian Blais",
-  "website": "https://github.com/aeonsablaze/wakeword",
+  "website": "https://github.com/aeonsablaze/microwakewords",
   "model": "hey_merlin.tflite",
   "trained_languages": [
     "en"
